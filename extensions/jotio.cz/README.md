@@ -5,7 +5,7 @@ A set of commands that all install. [here](https://github.com/JoTioTech/IQRF-IoT
 
 ##  OS (ubilinux3 / ubilinux4) with installed IQRF Daemon and configuratio WebApp
 ### Run Docker 
-Install Docker -> See the inspiration [here](https://github.com/iqrfsdk/iqrf-daemon/blob/master/DOCKER.md)
+Install Docker -> See the inspiration [here](https://github.com/iqrfsdk/iqrf-daemon/blob/master/docker/INSTALL.md)
 
 ### Setup Node-RED ecosystem 
 ### docker_net
